@@ -20,7 +20,7 @@ class App extends Component {
             Learn React, Like seriously!!!
           </a>
           <p className="App-intro">
-          Something is here will be!!
+          I was changed on the Feature branch
           </p>
         </header>
       </div>
